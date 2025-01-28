@@ -6,6 +6,8 @@ from pynput import keyboard
 
 from leaderboard.autoagents.autonomous agent import Autonomous Agent
 
+# Make a quick edit
+
 def get_entry_point():
     return 'MyAgent'
 
