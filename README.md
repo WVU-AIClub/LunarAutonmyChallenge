@@ -1,16 +1,16 @@
-Lunar Autonomy Challenge 🚀🌙
+# Lunar Autonomy Challenge 🚀🌙
 
 Proud to share that our team placed 5th in the Lunar Autonomy Challenge — among a very competitive lineup of teams from across the country! 🎉
 
 This repository contains our work for the challenge, where we designed and tested autonomous navigation strategies for a simulated lunar rover environment.
 
-🛰️ About the Challenge
+## 🛰️ About the Challenge
 
 The Lunar Autonomy Challenge, hosted by Johns Hopkins Applied Physics Laboratory (APL), brought together teams to develop cutting-edge autonomy solutions for robotic exploration in lunar-like environments.
 
 Our task: create an autonomous system capable of navigating, perceiving, and making decisions in simulated lunar terrain.
 
-🔧 Technical Highlights
+## 🔧 Technical Highlights
 
 Over the course of the competition, we built and experimented with:
 
@@ -22,36 +22,37 @@ Reinforcement Learning for autonomous decision-making under uncertainty
 
 Multi-user Linux Server Setup to streamline development and collaboration
 
-📂 Repository Structure
+## 📂 Repository Structure
 
-├── Battery_Usage_Graph/       # Energy usage visualizations
 
-├── Camera_Trajectory/         # Camera tracking and SLAM trajectory results
+├── Battery_Usage_Graph       *-Energy usage visualizations*
 
-├── Colab Segmentation (1).ipynb   # Colab notebook for segmentation experiments
+├── Camera_Trajectory         *-Camera tracking and SLAM trajectory results*
 
-├── LICENSE                    # License file
+├── Colab Segmentation (1).ipynb   *-Colab notebook for segmentation experiments*
 
-├── ORB_SLAM3_ORBS/            # ORB-SLAM3 outputs and experiments
+├── LICENSE                    *-License file*
 
-├── RunLeaderboard.sh          # Script for running leaderboard submissions
+├── ORB_SLAM3_ORBS/            *-ORB-SLAM3 outputs and experiments*
 
-├── Segmentation_Comparison/   # Comparisons of segmentation model outputs
+├── RunLeaderboard.sh          *-Script for running leaderboard submissions*
 
-├── Simulation_SS/             # Screenshots from simulation runs
+├── Segmentation_Comparison/   *-Comparisons of segmentation model outputs*
 
-├── Trajectory_Graph/          # Graphs of rover/camera trajectories
+├── Simulation_SS/             *-Screenshots from simulation runs*
 
-├── my_agent.py                # Agent implementation (decision-making / RL)
+├── Trajectory_Graph/          *-Graphs of rover/camera trajectories*
 
-└── my_missions.xml            # Mission configuration file for simulation
+├── my_agent.py                *-Agent implementation (decision-making / RL)*
 
-🏆 Results
+└── my_missions.xml            *-Mission configuration file for simulation-*
+
+## 🏆 Results
 
 Our system successfully tackled navigation and decision-making tasks, earning us 5th place nationally.
 Beyond the competition, we gained invaluable experience in robotic autonomy, teamwork, and large-scale system integration.
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 A huge thank-you to:
 
@@ -61,7 +62,7 @@ Our mentor, Dr.Devine, peers, and supporters who guided us along the way
 
 And of course, the team — for their grit, creativity, and late-night debugging sessions
 
-🌌 Final Note
+### 🌌 Final Note
 
 This project reminded us of something important:
 Max Rebo never dies. 🎶🐘
