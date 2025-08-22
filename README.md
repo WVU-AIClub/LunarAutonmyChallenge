@@ -23,6 +23,7 @@ Reinforcement Learning for autonomous decision-making under uncertainty
 Multi-user Linux Server Setup to streamline development and collaboration
 
 📂 Repository Structure
+
 ├── Battery_Usage_Graph/       # Energy usage visualizations
 
 ├── Camera_Trajectory/         # Camera tracking and SLAM trajectory results
