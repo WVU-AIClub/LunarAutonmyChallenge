@@ -24,15 +24,25 @@ Multi-user Linux Server Setup to streamline development and collaboration
 
 📂 Repository Structure
 ├── Battery_Usage_Graph/       # Energy usage visualizations
+
 ├── Camera_Trajectory/         # Camera tracking and SLAM trajectory results
+
 ├── Colab Segmentation (1).ipynb   # Colab notebook for segmentation experiments
+
 ├── LICENSE                    # License file
+
 ├── ORB_SLAM3_ORBS/            # ORB-SLAM3 outputs and experiments
+
 ├── RunLeaderboard.sh          # Script for running leaderboard submissions
+
 ├── Segmentation_Comparison/   # Comparisons of segmentation model outputs
+
 ├── Simulation_SS/             # Screenshots from simulation runs
+
 ├── Trajectory_Graph/          # Graphs of rover/camera trajectories
+
 ├── my_agent.py                # Agent implementation (decision-making / RL)
+
 └── my_missions.xml            # Mission configuration file for simulation
 
 🏆 Results
